@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body 
+{
+	/*background-image:url(images/pexels-photo-450301.jpeg);*/
+	background-size: cover;
+	background-color: black;
+	background-position: left top;
+}
+
+#p_licznik
+{
+	font-size: 150px;
+	text-align:center;
+	font-family: Calibri;
+	padding:140px;
+	color: white;
+}
+#licznik
+{
+	font-family: "Ubuntu Mono";
+	font-size:  350px;
+}
+	
+	
