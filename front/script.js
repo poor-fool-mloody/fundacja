@@ -78,8 +78,8 @@ setInterval(function(){
             //console.log(img);
 			tempImg = img;
 			
-			img = "images/" + img + ".jpg";
-			var style = "background-image:url(" + img + ");";
+			imgToStyle = url + "front/images/" + img + ".jpg";
+			var style = "background-image:url(" + imgToStyle + ");";
 
 			document.getElementById("body").style = style;
 		}
